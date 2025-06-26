@@ -30,12 +30,6 @@ A fun two-player dice game built with HTML, CSS, and JavaScript. Players take tu
 - CSS3 (Flexbox, gradients, blur effects)
 - JavaScript (DOM manipulation, game logic)
 
-## 📸 Screenshot Instructions
-
-1. Take a screenshot of your game
-2. Save as `screenshot.png` in an `images` folder
-3. The Markdown above will automatically display it
-
 ## 📥 Installation
 
 ```bash
